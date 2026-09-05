@@ -13,7 +13,7 @@ private:
     double totalAmount;
     string bookingStatus;   // Pending, Confirmed, Cancelled
     time_t bookingTime;
-    cout>>"hiii";
+
 
 public:
     Booking(int id, int custId)
