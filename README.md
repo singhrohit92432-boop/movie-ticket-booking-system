@@ -194,10 +194,10 @@ End
 
 ## 📚 Academic Information
 
-**Course:** TCS-504 System Design
-**Assignment:** Assignment 1
-**Project:** Movie Ticket Booking System
-**Language:** C++
+- **Course:** TCS-504 System Design
+- **Assignment:** Assignment 1
+- **Project:** Movie Ticket Booking System
+- **Language:** C++
 
 ---
 
